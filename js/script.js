@@ -3,7 +3,7 @@
 
 function calculateA() {
   //Calculations for area and perimiter 
-  document.getElementById('multiply-math').innerHTML = 'The area is' + (4 * 18)
+  document.getElementById('multiply-math').innerHTML = 'The area is ' + (4 * 18)
 }
   
   function calculateP() {
